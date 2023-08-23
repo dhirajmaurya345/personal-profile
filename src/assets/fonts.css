@@ -1,0 +1,44 @@
+font-face {
+    font-family: brandFont;
+    src: url('../assets/fonts/Tektur-SemiBold.ttf');
+}
+
+@font-face {
+    font-family: robotoRegular;
+    src: url('../assets/fonts/Roboto-Regular.ttf');
+}
+
+@font-face {
+    font-family: robotoMedium;
+    src: url('../assets/fonts/Roboto-Medium.ttf');
+}
+
+@font-face {
+    font-family: robotoBold;
+    src: url('../assets/fonts/Roboto-Bold.ttf');
+}
+
+@font-face {
+    font-family: robotoBlack;
+    src: url('../assets/fonts/Roboto-Black.ttf');
+}
+
+.brand-jkan1 {
+    font-family: brandFont;
+}
+
+.font-roboto {
+    font-family: robotoRegular;
+}
+
+.font-roboto-md {
+    font-family: robotoMedium;
+}
+
+.font-roboto-bold {
+    font-family: robotoBold;
+}
+
+.font-roboto-bolder {
+    font-family: robotoBlack;
+}

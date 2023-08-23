@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    background-color: #f2f0ee;
+    /* background-image: linear-gradient(to bottom, #c4b5fd, #a78bfa, #8b5cf6); */
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+:root::-webkit-scrollbar {
+    display: none;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* To use only in dev mode */
+/* div,li,ul,nav,h1,p,h3 {
+    border: 1px solid black;
+} */
+
+.shadow-xy-xl {
+    box-shadow: 0 -20px 25px -5px rgba(0, 0, 0, 0.02),
+        0 20px 25px -5px rgba(0, 0, 0, 0.02),
+        25px 0 25px -5px rgba(0, 0, 0, 0.08),
+        -25px 0 25px -5px rgba(0, 0, 0, 0.08)
+}
