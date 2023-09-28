@@ -138,7 +138,7 @@ const StoreNavigation: React.FC<headerProps> = (props) => {
                 Programmer, Designer & Developer
               </h3>
               <p className="flex font-roboto tracking-tight text-justify break-normal w-fit my-4 mt-8 max-w-xs">
-                Experienced software engineer with good knowledge of Java,
+                Experienced software engineer with good knowledge of JS,
                 ReactJs and AWS. Strong backend experience, with NodeJs, AWS,
                 RESTful APIs and diverse technologies. Skilled in problem
                 solving and designing scalable systems.
